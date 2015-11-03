@@ -1,0 +1,6 @@
+[submodule "lazyloader"]
+	path = lazyloader
+	url = git@github.com:wangjx9110/lazyloader.git
+[submodule "a/b"]
+	path = a/b
+	url = git@github.com:wangjx9110/lazyloader.git
